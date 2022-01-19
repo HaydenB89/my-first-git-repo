@@ -1,0 +1,66 @@
+[33mcommit 6b80bd48e5a657dcaaebeceeff2afa86bdf67f91[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 7f68e45 7951696
+Author: hayden brown <haydenbrowncinci@gmail.com>
+Date:   Wed Jan 19 10:22:23 2022 -0500
+
+    Merge branch 'enh'
+
+[33mcommit 795169626e82656742d621a62cb2c2de416f973a[m[33m ([m[1;32menh[m[33m)[m
+Author: hayden brown <haydenbrowncinci@gmail.com>
+Date:   Wed Jan 19 10:09:03 2022 -0500
+
+    added and enhancement
+
+[33mcommit 7f68e456728c18c13ca9ca3bf39359e75b836706[m
+Author: hayden brown <haydenbrowncinci@gmail.com>
+Date:   Wed Jan 19 10:00:54 2022 -0500
+
+    added xxx
+
+[33mcommit e957d5d145fa87c2af6821f51d997eaf8a34be4b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: hayden brown <haydenbrowncinci@gmail.com>
+Date:   Tue Jan 18 23:09:38 2022 -0500
+
+    driver
+
+[33mcommit 1fdae37c3a73decc8d0f8c750c3d5691572b68ed[m
+Author: hayden brown <haydenbrowncinci@gmail.com>
+Date:   Tue Jan 18 23:08:49 2022 -0500
+
+    max employee
+
+[33mcommit 445ea43da1e210c5f331dabbb9b15f998b9b1bb6[m
+Author: hayden brown <haydenbrowncinci@gmail.com>
+Date:   Tue Jan 18 23:07:54 2022 -0500
+
+    musician
+
+[33mcommit 434157d88ace586980c81793534cc64ef1d0e9d0[m
+Author: hayden brown <haydenbrowncinci@gmail.com>
+Date:   Tue Jan 18 23:05:07 2022 -0500
+
+    runner and ex-pelton worker
+
+[33mcommit f295b16955efd6864bbe9a43ba15872a0f643b4c[m
+Author: hayden brown <haydenbrowncinci@gmail.com>
+Date:   Tue Jan 18 16:13:40 2022 -0500
+
+    updated secondfile
+
+[33mcommit 5706c4136546688ecdeeda6d1f74dddbf1fd686a[m
+Author: hayden brown <haydenbrowncinci@gmail.com>
+Date:   Tue Jan 18 16:02:25 2022 -0500
+
+    new #3
+
+[33mcommit 06d0be0956caef608e5d11983c04889fa740ad25[m
+Author: Seth-Race <sethrace@gmail.com>
+Date:   Tue Jan 18 14:47:15 2022 -0500
+
+    the secondfile is the initial because im weird
+
+[33mcommit 317fcb7436a4a0cfcb4239811b8ed11e0bd5af16[m
+Author: Seth-Race <sethrace@gmail.com>
+Date:   Tue Jan 18 14:26:59 2022 -0500
+
+    initial commit
